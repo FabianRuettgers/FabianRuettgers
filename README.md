@@ -1,5 +1,5 @@
 # Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
-My name is Fabian I will be a prospective web developer. I'm from Germany, currently living in Cologne.
+My name is Fabian I will be a prospective web developer soon. I'm from Germany, currently living in Cologne.
 I love problem-solving, it's so fun to find crazy ways to achieve goals efficiently.
 
 ### What do I do and What have I done?
