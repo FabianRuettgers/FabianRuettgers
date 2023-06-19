@@ -5,6 +5,6 @@ I love problem-solving, it's so fun to find crazy ways to achieve goals efficien
 ### What do I do and What have I done?
 - I did a 3-year apprenticeship as a carpenter in Cologne in 2017
 - I worked as a carpenter for three more years till 2023
-- I am currently training to become a web developer
+- I am currently training to become a web developer at [neuefische](https://www.neuefische.de/bootcamp/web-development)
  
 Feel free to ask me anything. I am looking forward to absorbing knowledge🧠 and gaining experience 🏭.
